@@ -9,12 +9,12 @@ xds-platform
 
 1.建模核心实现
   分为以下几个模块，
-  core，也就是platform核心模块，主要包过设计器面板以及核心机制
-  component，也就是组件模块，支持自定义组件，以及常用组件的实现
-  view，
-  plugn，插件机制
-  extend，
-  context，前端对象容器
+  - core，也就是platform核心模块，主要包过设计器面板以及核心机制
+  - component，也就是组件模块，支持自定义组件，以及常用组件的实现
+  - view，
+  - plugn，插件机制
+  - extend，
+  - context，前端对象容器
   
   
 2.建模项目管理
